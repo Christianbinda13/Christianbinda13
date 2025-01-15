@@ -1,4 +1,4 @@
-- 👋 Ola,me chamo Christian Binda
+- 👋 Olá, me chamo Christian Binda
 <!---
 Christianbinda13/Christianbinda13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
